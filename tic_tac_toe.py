@@ -127,3 +127,14 @@ while True:
 
 # Keep terminal open (for double-click run)
 input("\nPress Enter to exit...")
+
+Follow the instructions on screen to play the game.
+
+## Learning Outcomes
+- Implemented a simple AI using the Minimax algorithm  
+- Learned basic game logic and decision-making  
+- Practiced handling user input and interactive terminal games
+
+## Author
+Karthi Karthik
+
